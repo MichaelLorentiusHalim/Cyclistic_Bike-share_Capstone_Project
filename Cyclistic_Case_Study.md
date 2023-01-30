@@ -1,6 +1,8 @@
 Cyclistic Bike Case Study
 ================
-2023-01-27
+Presented by: Michael Lorentius Halim
+
+Last Updated: January 30, 2023
 
 ## Introduction
 
