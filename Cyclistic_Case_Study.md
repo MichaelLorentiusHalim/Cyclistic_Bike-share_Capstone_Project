@@ -27,8 +27,7 @@ link <https://divvybikes.com/system-data>.
 This RMarkdown file will focus on the Prepare, Process, Analyze, and
 Share phases with RStudio
 
-Click here <http://rmarkdown.rstudio.com> to find the final presentation
-of the case study.
+Click here <https://github.com/MichaelLorentiusHalim/Cyclistic_Bike-share_Capstone_Project/blob/6623a2da7495bb74ab3a065bb2d5f81b514d3228/Cyclistic%20bike-share.pptx> to find the final presentation of the case study in pptx.
 
 ## 1. Load the Libraries
 
